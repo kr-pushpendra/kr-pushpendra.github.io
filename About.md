@@ -1,3 +1,3 @@
 layout: page
 title: "About Me"
-permalink: /about-me/
+permalink: /kr-pushpendra.github.io-about-me/
